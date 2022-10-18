@@ -1,0 +1,339 @@
+.caja {
+    position: relative;
+    display: inline-block;
+
+}
+
+.texto1 {
+
+    position: absolute;
+    top: 390px;
+    left: 585px;
+    font-size: 40px;
+    color: aliceblue;
+    font-family: 'Vast Shadow', cursive;
+
+
+
+}
+.raya1 {
+
+    position: absolute;
+    top: 350px;
+    left: 555px;
+    font-size: 40px;
+    color: aliceblue;
+    
+}
+.raya2 {
+
+    position: absolute;
+    top: 420px;
+    left: 555px;
+    font-size: 40px;
+    color: aliceblue;
+    
+}
+
+.ensalada1 {
+    position: absolute;
+    top: 550px;
+    left: 1050px;
+}
+
+.pollo1 {
+
+    position: absolute;
+    top: 550px;
+    left: 760px;
+
+}
+
+.bebida1 {
+    position: absolute;
+    top: 760px;
+    left: 1050px;
+}
+
+.postre1 {
+    position: absolute;
+    top: 760px;
+    left: 760px;
+}
+
+.simbolo1 {
+    position: absolute;
+    top: 460px;
+    left: 30px;
+}
+
+.Menú {
+    color: aliceblue;
+    position: absolute;
+    top: 555px;
+    left: 80px;
+    font-size: 35px;
+    
+}
+
+.descripcion1 {
+    color: aliceblue;
+    position: absolute;
+    top: 600px;
+    left: 35px;
+    font-size: 24px;
+
+}
+
+
+.poll {
+    position: absolute;
+    color: aliceblue;
+    top: 810px;
+    left: 340px;
+    font-size: 24px;
+}
+
+.ens {
+    color: aliceblue;
+    position: absolute;
+    top: 810px;
+    left: 75px;
+    font-size: 24px;
+}
+
+.chia {
+    color: aliceblue;
+    position: absolute;
+    top: 870px;
+    left: 83px;
+    font-size: 24px;
+
+}
+
+.agu {
+    color: aliceblue;
+    position: absolute;
+    top: 870px;
+    left: 345px;
+    font-size: 24px;
+
+}
+
+.ens1 {
+    position: absolute;
+    top: 730px;
+    left: 35px;
+
+    
+}
+
+.poll1 {
+
+    position: absolute;
+    left: 35px;
+    top: 790px;
+}
+
+.agu1 {
+    position: absolute;
+    left: 300px;
+    top: 730px;
+}
+
+.chia1 {
+    position: absolute;
+    left: 300px;
+    top: 790px;
+}
+
+
+.ensalada2 {
+    position: absolute;
+    color: aliceblue;
+    font-size: 40px;
+    font-family: 'Vast Shadow', cursive;    
+    top:1000px;
+    left: 35px;
+}
+
+.ingredientes1 {
+    position: absolute;
+    color: aquamarine;
+    font-size: 35px;
+    left: 35px;
+    top: 1100px;
+
+}
+.preparacion1 {
+    position: absolute;
+    color: aquamarine;
+    font-size: 35px;
+    left: 550px;
+    top: 1100px;
+} 
+
+.prep11 {
+    color: aliceblue;
+    position: absolute;
+    top: 1190px;
+    left: 35px;
+    font-size: 24px;
+    
+
+}
+
+.prep12 {
+    color: aliceblue;
+    position: absolute;
+    top: 1190px;
+    left: 535px;
+    font-size: 24px;
+    
+
+}
+.pollo2 {
+
+    position: absolute;
+    color: aliceblue;
+    font-size: 40px;
+    font-family: 'Vast Shadow', cursive;    
+    top:1480px;
+    left: 35px;
+}
+
+.ingredientes2 {
+
+    position: absolute;
+    color: aquamarine;
+    font-size: 35px;
+    left: 35px;
+    top: 1580px;
+
+}
+.preparacion2 {
+    position: absolute;
+    color: aquamarine;
+    font-size: 35px;
+    left: 550px;
+    top: 1580px;
+}
+
+.prep21 {
+    color: aliceblue;
+    position: absolute;
+    top: 1670px;
+    left: 35px;
+    font-size: 24px;
+}
+
+.prep22 {
+
+    color: aliceblue;
+    position: absolute;
+    top: 1670px;
+    left: 535px;
+    font-size: 24px;
+}
+
+.chia2 {
+    position: absolute;
+    color: aliceblue;
+    font-size: 40px;
+    font-family: 'Vast Shadow', cursive;    
+    top:1990px;
+    left: 35px;
+}
+
+.ingredientes3 {
+    position: absolute;
+    color: aquamarine;
+    font-size: 35px;
+    left: 35px;
+    top: 2085px;
+
+}
+
+.preparacion3 {
+   
+    position: absolute;
+    color: aquamarine;
+    font-size: 35px;
+    left: 550px;
+    top: 2085px;
+}
+
+.prep31 {
+    color: aliceblue;
+    position: absolute;
+    top: 2180px;
+    left: 35px;
+    font-size: 24px;
+}
+
+.prep32{
+    color: aliceblue;
+    position: absolute;
+    top: 2180px;
+    left: 535px;
+    font-size: 24px;
+} 
+
+.agua2{
+    position: absolute;
+    color: aliceblue;
+    font-size: 40px;
+    font-family: 'Vast Shadow', cursive;    
+    top:2490px;
+    left: 35px;
+
+} 
+
+.ingredientes4 {
+    position: absolute;
+    color: aquamarine;
+    font-size: 35px;
+    left: 35px;
+    top: 2585px;
+}
+
+.preparacion4 { 
+    position: absolute;
+    color: aquamarine;
+    font-size: 35px;
+    left: 550px;
+    top: 2585px;
+}
+
+.prep41 {
+    color: aliceblue;
+    position: absolute;
+    top: 2685px;
+    left: 35px;
+    font-size: 24px;
+}
+
+.prep42 {
+    color: aliceblue;
+    position: absolute;
+    top: 2685px;
+    left: 535px;
+    font-size: 24px;
+}
+
+.volver {
+    color: aliceblue;
+    position: absolute;
+    top: 3000px;
+    left: 80px;
+    font-size: 36px;
+} 
+
+
+
+.volver1 {
+    position: absolute;
+    top: 2963px;
+    left: 35px;
+}
+
